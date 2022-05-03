@@ -1,0 +1,1629 @@
+[{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+},
+{
+    "user_id": "1234",
+    "age": "21",
+    "profession": "student",
+    "gender": "male",
+    "colorSelections": [
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        },
+        {
+            "color_1": "blue",
+            "color_2": "red",
+            "color_3": "green"
+        }
+    ],
+    "surveyData": {
+        "color_1": "red",
+        "color_2": "green",
+        "color_3": "blue"
+    },
+    "timeTaken": "298 secs" 
+}
+]
